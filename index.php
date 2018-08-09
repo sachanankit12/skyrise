@@ -15,28 +15,7 @@
         </div>
     </div>
     <div class="clearfix"></div>
-    <section class="pink_bg">
-        <div class="container-fluid">
-            <h2 class="wow fadeInUp">Welcome to our company</h2>
-            <div class="box_wrap">
-                <div class="wh_bg">
-                    <div class="container">
-                        <div class="row vh">
-                            <div class="col-md-6">
-                                <h4>ESTD    1974</h4>
-                                <h3>THE INFINITY OF <span>&</span> BEAUTY     SENSOUSNESS</h3>
-                                <p>B You, a masterpiece by Raj Creations. We pioneer in manufacturing intimate clothing for modern women in knitted and hosiery fabric with a history of more than four decades. The name Raj creations is derived from the founder Late Shri Rajendra Malhotra </p>
-                            </div>
-                            <div class="col-md-6">
-                                <img src="<?php bloginfo('template_directory');?>/images/grps.png" alt="" class="mt-50 wow fadeInUp" data-wow-delay="1s">
-                            </div>
-                        </div>
-                        <!-- row -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
     <section class="bg_bg">
         <div class="container-fluid">
             <div class="row">
